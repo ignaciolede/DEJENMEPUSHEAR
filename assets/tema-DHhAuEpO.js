@@ -1,0 +1,1 @@
+import{g as e,m as t}from"./estilosBoton-BtDKMKgk.js";import{H as n,U as r,V as i,W as a}from"./index-d5IK80e8.js";var o=e(t(),1);function s(){return{preferencia:(0,o.useSyncExternalStore)(a,r),elegir:i}}function c(){(0,o.useEffect)(()=>(n(!0),()=>n(!1)),[])}export{s as n,c as t};
