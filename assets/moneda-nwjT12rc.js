@@ -1,0 +1,1 @@
+var e=new Intl.NumberFormat(`es-AR`,{maximumFractionDigits:0});function t(t){return`$ ${e.format(Math.abs(t))}`}function n(e){return e<1e6?`${Math.max(1,Math.round(e/1e3))} KB`:`${new Intl.NumberFormat(`es-AR`,{maximumFractionDigits:1}).format(e/1e6)} MB`}export{n,t};

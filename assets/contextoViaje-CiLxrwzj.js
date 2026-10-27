@@ -1,0 +1,1 @@
+import{d as e}from"./estilosBoton-BtDKMKgk.js";function t(){return e()}export{t};

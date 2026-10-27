@@ -1,0 +1,1 @@
+function e(e,t){let n=e.find(e=>e.id===t);return n?n.esVos?`vos`:n.nombre:null}function t(e){return e.find(e=>e.esVos)?.rol!==`lector`}export{t as n,e as t};

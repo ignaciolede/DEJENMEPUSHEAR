@@ -1,0 +1,1 @@
+function e(e){return e.length<=1?e.join(``):`${e.slice(0,-1).join(`, `)} y ${e[e.length-1]}`}function t(e){return e.charAt(0).toUpperCase()+e.slice(1)}export{e as n,t};
